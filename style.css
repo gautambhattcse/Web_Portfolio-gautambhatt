@@ -8,7 +8,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background-image: url(IMAGES/background2.png);
+  background-image: url(background2.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -89,7 +89,7 @@ main hr {
   display: block;
   margin: 0 auto;
   text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
-  background: url(IMAGES/animated-text-fill\ renewed.png) repeat-y;
+  background: url(animated-text-fill\ renewed.png) repeat-y;
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
